@@ -18,14 +18,11 @@ Construir soluciones digitales confiables, seguras y escalables que generen valo
 - **Monitoreo y análisis:** Application Insights, Azure Monitor
 - **Almacenamiento y archivos:** FTP, Azure Blob Storage, Cloudflare R2
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px; margin-bottom: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" style="width: 40px; aspect-ratio: 1/1; object-fit: contain;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" title="Cloudflare" style="width: 40px; aspect-ratio: 1/1; object-fit: contain;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" style="width: 40px; aspect-ratio: 1/1; object-fit: contain;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" title=".NET" style="width: 40px; aspect-ratio: 1/1; object-fit: contain;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" style="width: 40px; aspect-ratio: 1/1; object-fit: contain;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" style="width: 40px; aspect-ratio: 1/1; object-fit: contain;" />
-</div>
+<br>
+<img 
+    src="https://skillicons.dev/icons?i=nodejs,docker,cloudflare,dotnet,angular,azure,vercel,workers,sqlite,postgres&perline=5&theme=light" 
+    alt="Stack Tecnológico Nakanaba" 
+/>
 
 ## 📬 Contacto
 
