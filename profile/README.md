@@ -11,12 +11,12 @@ Construir soluciones digitales confiables, seguras y escalables que generen valo
 
 🛠️ Stack Tecnológico
 
-**Backend:** .NET 9 (C#), NodeJS / Express, Cloudflare Workers
-**Frontend:** Angular 19+ (SSR, SPA)  
-**Infraestructura:** Docker, Hosting en cPanel, Azure Cloud, Vercel, VPS, Cloudflare
-**Base de datos:** SQL Server, PostgreSQL, SQLite
-**Monitoreo y análisis:** Application Insights, Azure Monitor  
-**Almacenamiento y archivos:** FTP, Azure Blob Storage, Cloudflare R2
+- **Backend:** .NET 9 (C#), NodeJS / Express, Cloudflare Workers
+- **Frontend:** Angular 19+ (SSR, SPA)
+- **Infraestructura:** Docker, Hosting en cPanel, Azure Cloud, Vercel, VPS, Cloudflare
+- **Base de datos:** SQL Server, PostgreSQL, SQLite
+- **Monitoreo y análisis:** Application Insights, Azure Monitor
+- **Almacenamiento y archivos:** FTP, Azure Blob Storage, Cloudflare R2
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px; margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="NodeJS" />
