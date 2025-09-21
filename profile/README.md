@@ -9,11 +9,23 @@ Construir soluciones digitales confiables, seguras y escalables que generen valo
 
 ## 🛠️ Stack Tecnológico
 
-- **Backend:** .NET 8, C#, Entity Framework, Dapper
-- **Frontend:** Angular 18/19 (SSR con Angular Universal)
-- **Infraestructura:** Docker, CI/CD, Hosting en cPanel / servidores cloud
-- **Base de datos:** SQL Server / PostgreSQL
-- **Otras integraciones:** Application Insights, servicios externos de autenticación y subida de archivos (FTP)
+🛠️ Stack Tecnológico
+
+**Backend:** .NET 9 (C#), NodeJS / Express, Cloudflare Workers
+**Frontend:** Angular 19+ (SSR, SPA)  
+**Infraestructura:** Docker, Hosting en cPanel, Azure Cloud, Vercel, VPS, Cloudflare
+**Base de datos:** SQL Server, PostgreSQL, SQLite
+**Monitoreo y análisis:** Application Insights, Azure Monitor  
+**Almacenamiento y archivos:** FTP, Azure Blob Storage, Cloudflare R2
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px; margin-bottom: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" title="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure" />
+</div>
 
 ## 📬 Contacto
 
