@@ -3,8 +3,6 @@
 Bienvenido al **GitHub de Nakanaba**.  
 Aquí centralizamos todos los proyectos, librerías y recursos relacionados con nuestro ecosistema de desarrollo.
 
----
-
 ## 🚀 Nuestra Misión
 
 Construir soluciones digitales confiables, seguras y escalables que generen valor para nuestros clientes y usuarios, con un enfoque en innovación y experiencia de usuario.
