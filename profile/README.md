@@ -29,6 +29,6 @@ Construir soluciones digitales confiables, seguras y escalables que generen valo
 
 ## 📬 Contacto
 
-🌐 Sitio web: [nakanaba.com](https://nakanaba.com)
+🌐 Sitio web: [nakanaba.com](https://nakanaba.com)  
 📧 Email: contacto@nakanaba.com  
 💬 Soporte: [Abrir un issue](https://github.com/Nakanaba)
